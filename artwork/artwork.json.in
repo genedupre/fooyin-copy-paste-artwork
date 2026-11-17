@@ -10,6 +10,6 @@
                   "You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>"
                 ],
     "Category" : "Library.Tag Management",
-    "Description" : "Copy embedded artwork from one track and paste it onto others",
+    "Description" : "Copy track artwork to the system clipboard and paste clipboard images onto tracks",
     "Url" : "https://github.com/genedupre/fooyin-copy-paste-artwork"
 }
