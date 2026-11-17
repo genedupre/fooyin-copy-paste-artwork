@@ -24,6 +24,5 @@ private:
     MusicLibrary* m_library{nullptr};
     std::shared_ptr<AudioLoader> m_loader;
     TrackSelectionController* m_trackSelection{nullptr};
-    CoverImage m_clipboard;
 };
 } // namespace Fooyin::CopyPasteArtwork
