@@ -50,11 +50,6 @@ From an x64 Native Tools Command Prompt:
 .\build.ps1 -QtDirectory 'C:\Qt\6.12.0\msvc2022_64' -FooyinSource '..\fooyin'
 ```
 
-## Changelog
-
-- **0.1.1:** Copy and Paste now use the system clipboard instead of an internal fooyin-only buffer. Paste accepts images from any app or copied image files.
-- **0.1.0:** First release: copy and paste the front cover between tracks inside fooyin.
-
 ## Credits and license
 
 By **Gene Dupre**. Licensed under **GPL-3.0-or-later**; see [LICENSE](LICENSE).
